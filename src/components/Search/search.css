@@ -1,0 +1,8 @@
+.search-field {
+    padding-left: 20px;
+    padding-top: 20px;
+}
+input[type="text"] {
+    width: 400px;
+    height: 30px;
+}

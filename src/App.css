@@ -1,5 +1,9 @@
+:root {
+  background-color: #eeeeee;
+}
 .App {
   text-align: center;
+  /* background-color: #eeeeee; */
 }
 
 .App-logo {
